@@ -1,11 +1,9 @@
 ## Profile
-Email | 
+Email | soyeonlee0515@gmail.com <br>
+Phone | 00-4068-5166
 
 
 
-
-
-## Hi there 👋
 
 
 
