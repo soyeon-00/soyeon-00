@@ -2,7 +2,7 @@
 Email | soyeonlee0515@gmail.com <br>
 Phone | 00-4068-5166
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-soyeon-00&show_icons=true&theme=dracula)
 
 
 
